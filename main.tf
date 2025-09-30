@@ -5,7 +5,6 @@ variable "animals" {
     type    = list(string)
     default = [
       "elephant",
-      "rhinoceros",
       "buffalo",
       "lion",
       "leo-the-leopard",
